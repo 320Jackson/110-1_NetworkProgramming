@@ -1,4 +1,3 @@
-from numpy.lib.function_base import place
 import pandas as pd
 import numpy as np
 NameList = []
